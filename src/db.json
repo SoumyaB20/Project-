@@ -1,0 +1,38 @@
+{
+  "Users": [
+    {
+      "fullname": "abc",
+      "email": "a@gmail.com",
+      "password": "abc",
+      "mobile": 123445,
+      "id": 1,
+      "income": 1000,
+      "threshold": 10
+    },
+    {
+      "fullname": "soumya b",
+      "email": "som@gmail.com",
+      "password": "123",
+      "mobile": 12345,
+      "id": 2,
+      "income": 50000,
+      "threshold": 20000
+    },
+    {
+      "fullname": "ba",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullname": "bala",
+      "email": "bala@gmail.com",
+      "password": "123",
+      "mobile": 9999999999,
+      "id": 4,
+      "income": 777,
+      "threshold": 77
+    }
+  ]
+}
